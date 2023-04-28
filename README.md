@@ -35,11 +35,11 @@
 
 
                                     Créer un nouveau patient
-                                    ![image](https://user-images.githubusercontent.com/92368576/235253261-1331a8e6-43e5-428b-96ec-07cab77f4106.png)
+![image](https://user-images.githubusercontent.com/92368576/235253261-1331a8e6-43e5-428b-96ec-07cab77f4106.png)
 
 
                                     Sign in page
-                                    ![image](https://user-images.githubusercontent.com/92368576/235253365-d7361019-830f-4839-861e-4fc016e9bff9.png)
+![image](https://user-images.githubusercontent.com/92368576/235253365-d7361019-830f-4839-861e-4fc016e9bff9.png)
 
 
 
